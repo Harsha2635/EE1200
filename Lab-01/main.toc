@@ -1,0 +1,28 @@
+\contentsline {section}{\numberline {1}Overview of the Project}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Objective}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Equipment Used}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}\textbf {Introduction to oscilloscope}}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1} Purpose}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2} Key Components}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Key Terms}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Basic Operation}{3}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Applications}{4}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Difference Between 1x and 10x Oscilloscope Probe Settings}{4}{section.3}%
+\contentsline {section}{\numberline {4}Precautions while setting up an oscilloscope}{5}{section.4}%
+\contentsline {section}{\numberline {5}Introduction to Function Generator}{6}{section.5}%
+\contentsline {section}{\numberline {6}Precautions While Setting Up a Function Generator}{6}{section.6}%
+\contentsline {section}{\numberline {7}Producing Lissajous Figures(Task-1)}{6}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Working of an Cathode Ray Oscilloscope(CRO): }{6}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Lissajous Figures}{7}{subsection.7.2}%
+\contentsline {section}{\numberline {8}Lissajous Figures: Numerical Examples}{8}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Pattern 1:}{8}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Pattern 2:}{9}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Pattern 3:}{10}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Pattern 4:}{12}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Pattern 5:}{14}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.6}Pattern 6:}{15}{subsection.8.6}%
+\contentsline {subsection}{\numberline {8.7}Pattern 7:}{17}{subsection.8.7}%
+\contentsline {section}{\numberline {9}Capturing One-time event in an oscilloscope(Task-2)}{19}{section.9}%
+\contentsline {subsection}{\numberline {9.1}What is one-time event:}{19}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}How to Capture a One-Time Event on an Oscilloscope}{19}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Snapshots of Capturing one-time event}{20}{subsection.9.3}%
