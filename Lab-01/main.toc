@@ -19,10 +19,11 @@
 \contentsline {subsection}{\numberline {8.2}Pattern 2:}{9}{subsection.8.2}%
 \contentsline {subsection}{\numberline {8.3}Pattern 3:}{10}{subsection.8.3}%
 \contentsline {subsection}{\numberline {8.4}Pattern 4:}{12}{subsection.8.4}%
-\contentsline {subsection}{\numberline {8.5}Pattern 5:}{14}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.5}Pattern 5:}{13}{subsection.8.5}%
 \contentsline {subsection}{\numberline {8.6}Pattern 6:}{15}{subsection.8.6}%
 \contentsline {subsection}{\numberline {8.7}Pattern 7:}{17}{subsection.8.7}%
 \contentsline {section}{\numberline {9}Capturing One-time event in an oscilloscope(Task-2)}{19}{section.9}%
 \contentsline {subsection}{\numberline {9.1}What is one-time event:}{19}{subsection.9.1}%
 \contentsline {subsection}{\numberline {9.2}How to Capture a One-Time Event on an Oscilloscope}{19}{subsection.9.2}%
 \contentsline {subsection}{\numberline {9.3}Snapshots of Capturing one-time event}{20}{subsection.9.3}%
+\contentsline {section}{\numberline {10}Conclusion}{22}{section.10}%
